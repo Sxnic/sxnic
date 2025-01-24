@@ -1,6 +1,6 @@
 ## 👋 Hiya, I'm Sora!
 
-### Also known as Sxnic by some people.
+### Also known as Sxnic for some people.
 
 I'm a 23 year old developer from the Netherlands with a passion for almost anything in tech. Well, maybe except for CSS, but that's why I use [TailwindCSS](https://tailwindcss.com) to make things easier for me.
 
